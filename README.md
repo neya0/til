@@ -4,7 +4,7 @@
 <summary style="font-size: 20px"> Spring </summary>
 <div markdown="1">
 
- + [Spring Security란?](/Spring/Spring-security/spring-security.md)
+ + [Spring Security란?](/Spring/spring-security.md)
 
 </div>
 </details>

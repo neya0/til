@@ -4,4 +4,4 @@
 
 ## 👉 INDEX
 
- + [Spring Security란?](/Spring-security/spring-security.md)
+ + [Spring Security란?](/Spring/spring-security.md)
