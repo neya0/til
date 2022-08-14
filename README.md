@@ -22,6 +22,7 @@
 <div markdown="1">
 
  + [20220731, WIL](/WIL/20220731.md)
+ + [20220815, WIL](/WIL/20220815.md)
 
 </div>
 </details>
